@@ -5,9 +5,9 @@ This is the implementation of the classic Rock Paper Scissors game using HTML, C
 <br>
 ## Features
 <br>
-1.Play Rock Paper Scissors against the Computer.<br>
-2.It has a Responsive design<br>
-3.Simple and intuitive user interface is being build.<br>
+1. Play Rock Paper Scissors against the Computer.<br>
+2. It has a Responsive design<br>
+3. Simple and intuitive user interface is being build.<br>
 
 ## How to Play
 
