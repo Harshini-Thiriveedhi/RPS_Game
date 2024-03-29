@@ -2,9 +2,9 @@
 
 This is the implementation of the classic Rock Paper Scissors game using HTML, CSS, and JavaScript.
 <br>
-<b>Features</b>
+<bold>Features:</bold>
 <br>
-Play Rock Paper Scissors against the computer
-Responsive design
-Simple and intuitive user interface
+1.Play Rock Paper Scissors against the computer<br>
+2.Responsive design<br>
+3.Simple and intuitive user interface<br>
 
