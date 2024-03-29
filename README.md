@@ -3,12 +3,14 @@
 This is the implementation of the classic Rock Paper Scissors game using HTML, CSS, and JavaScript.
 <br>
 <br>
-##Features:
+## Features:
 <br>
 1.Play Rock Paper Scissors against the computer<br>
 2.Responsive design<br>
 3.Simple and intuitive user interface<br>
-##How to Play
+
+## How to Play
+
 * Open the game in your web browser.<br>
 * Click on the "Rock", "Paper", or "Scissors" button to choose your move.<br>
 * The computer will randomly select its move.<br>
