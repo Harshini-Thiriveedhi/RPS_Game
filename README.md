@@ -6,8 +6,8 @@ This is the implementation of the classic Rock Paper Scissors game using HTML, C
 ## Features
 <br>
 1.Play Rock Paper Scissors against the computer<br>
-2.Responsive design<br>
-3.Simple and intuitive user interface<br>
+2.It has a Responsive design<br>
+3.Simple and intuitive user interface is being build.<br>
 
 ## How to Play
 
@@ -15,4 +15,5 @@ This is the implementation of the classic Rock Paper Scissors game using HTML, C
 * Click on the "Rock", "Paper", or "Scissors" button to choose your move.<br>
 * The computer will randomly select its move.<br>
 * If both the player and computer choose the same move, it's a tie.<br>
+* The scores of computer and palyer will be displayed dyanmically.<br>
 * Keep playing rounds until you're satisfied!<br>
