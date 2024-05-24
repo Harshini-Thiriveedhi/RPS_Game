@@ -1,6 +1,6 @@
 # RPS_Game
 
-This is the implementation of the classic Rock Paper Scissors game using HTML, CSS, and JavaScript.
+This is the implementation of the Classic Rock Paper Scissors game using HTML, CSS, and JavaScript.
 <br>
 <br>
 ## Features
@@ -11,9 +11,9 @@ This is the implementation of the classic Rock Paper Scissors game using HTML, C
 
 ## How to Play
 
-* Open the game in your web browser.<br>
-* Click on the "Rock", "Paper", or "Scissors" button to choose your move.<br>
-* The computer will randomly select its move.<br>
-* If both the player and computer choose the same move, it's a tie.<br>
-* The scores of computer and player will be displayed dynamically.<br>
-* Keep playing rounds until you're satisfied!<br>
+1. Open the game in your web browser.<br>
+2.Click on the "Rock", "Paper", or "Scissors" button to choose your move.<br>
+3.The computer will randomly select its move.<br>
+4.If both the player and computer choose the same move, it's a tie.<br>
+5.The scores of computer and player will be displayed dynamically.<br>
+6.Keep playing rounds until you're satisfied!<br>
