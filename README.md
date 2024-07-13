@@ -17,3 +17,5 @@ This is the implementation of the Classic Rock Paper Scissors game using HTML, C
 4.If both the player and computer choose the same move, it's a tie.<br>
 5.The scores of computer and player will be displayed dynamically.<br>
 6.Keep playing rounds until you're satisfied!<br>
+
+## Deployed link:https://harshini-thiriveedhi.github.io/RPS_Game/
